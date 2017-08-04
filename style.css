@@ -1,0 +1,32 @@
+body {
+  background-color: #1C90F3;
+}
+
+header {
+  font-family: Helvetica;
+  text-align: center;
+  margin: auto;
+  font-size: 200%;
+  background-color: #37A3FF;
+  border-radius: 20px;
+  color: #064479;
+  width: 40%;
+
+}
+
+table {
+  margin: auto;
+  border: 5px solid #064479;
+}
+
+td {
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  background-color: #1C90F3;
+}
+
+
+// .
